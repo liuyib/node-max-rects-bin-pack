@@ -184,6 +184,7 @@ req.body={
  * Blog: [Even More Rectangle Bin Packing](http://clb.demon.fi/projects/even-more-rectangle-bin-packing)
  * Blog: [MaxRects ActionScript3 implementation](http://www.duzengqiang.com/blog/post/971.html)
  * QA: [HTML5 Canvas to PNG](http://stackoverflow.com/questions/12796513/html5-canvas-to-png-file)
+ * Blog: [Packing lightmaps into larger textures](https://blackpawn.com/texts/lightmaps/default.html)
 
 ## License
 Copyright (c) 2013 yi
